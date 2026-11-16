@@ -1,0 +1,12 @@
+{
+  "name": "冬至",
+  "english": "WINTER SOLSTICE",
+  "date": "2026/12/22",
+  "lunar": "农历冬月十四",
+  "seal": "节气",
+  "couplet": ["天时人事日相催", "冬至阳生春又来"],
+  "palette": "winter",
+  "motif": "plum",
+  "seed": 20261222,
+  "logoTextColor": "ink"
+}

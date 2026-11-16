@@ -1,0 +1,14 @@
+{
+  "name": "中秋",
+  "english": "MID-AUTUMN FESTIVAL",
+  "date": "2026/09/25",
+  "lunar": "农历八月十五",
+  "seal": "佳节",
+  "couplet": ["海上生明月", "天涯共此时"],
+  "palette": "autumn",
+  "motif": "osmanthus",
+  "celestial": "moon",
+  "sun": [742, 690],
+  "seed": 20260925,
+  "logoTextColor": "ink"
+}
